@@ -140,4 +140,4 @@ After finishing the coding part, it is suggested to include a configuration docu
 
 You can refer to the [Redis component description of the Lock API (Chinese)](zh/component_specs/lock/redis.md) and [the Redis component description of the Lock API (English)](en/component_specs/lock/redis.md), also can copy, paste, and revise.
 
-测试////
+测试////////
